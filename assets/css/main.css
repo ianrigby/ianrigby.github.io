@@ -1268,10 +1268,10 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
+			width: 15.5rem;
+			height: 15.5rem;
 			line-height: 5.5rem;
-			border: solid 10px #ffffff;
+			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
 
