@@ -78,7 +78,6 @@ input, select, textarea {
   width: 200px;
   height: 300px;
   overflow: hidden;
-  background: red;
 }
 .circular:before {
   content: url('images/avatar.jpg');
