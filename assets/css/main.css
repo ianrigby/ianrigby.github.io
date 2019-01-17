@@ -1352,6 +1352,7 @@ input, select, textarea {
 			border-right-width: 1px;
 			border-left-width: 1px;
 			max-width: 100%;
+			border-radius: 4px;
 			background-color: rgba(255, 255, 255, 0.095);
 		}
 
