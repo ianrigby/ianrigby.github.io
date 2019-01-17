@@ -1213,12 +1213,15 @@ input, select, textarea {
 		}
 
 /* Header */
-.img-circular{
- width: 200px;
- height: 200px;
- background-image: url('images/avatar.jpg');
- background-size: cover;
- display: block;
+.circular {
+margin: auto;
+width: 300px;
+height: 300px;
+border-radius: 50%;
+-webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+background: url(images/avatar.jpg) no-repeat;
+    background-size: cover;
 }
 	#header {
 		display: -moz-flex;
