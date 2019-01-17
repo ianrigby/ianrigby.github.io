@@ -73,21 +73,10 @@ input, select, textarea {
 }
 
 /*Circular Image*/
-.circular {
-  margin: auto;
-  width: 200px;
-  height: 300px;
-  overflow: hidden;
-}
-.circular:before {
-  content: url('images/avatar.jpg');
-  border-radius: 100%;
-  -webkit-border-radius: 100%;
-  -moz-border-radius: 100%;
-  width: 200px;
-  height: 200px;
-  overflow: hidden;
-  display: block;
+img {
+  border-radius: 50%;
+  max-width: 100%;
+  height: cover;
 }
 
 
