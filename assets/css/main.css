@@ -1280,10 +1280,10 @@ input, select, textarea {
 				content: '';
 				display: block;
 				position: absolute;
-				top: calc(0rem - 0px);
+				top: calc(-1rem - 0px);
 				left: calc(50% - 1px);
 				width: 1px;
-				height: calc(-2rem + 1px);
+				height: calc(-2rem);
 				background: #ffffff;
 }
 
