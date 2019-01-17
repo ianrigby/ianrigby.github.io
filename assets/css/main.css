@@ -1305,7 +1305,8 @@ input, select, textarea {
 				text-transform: none;
 				letter-spacing: 0.2rem;
 				font-size: 0.8rem;
-				line-height: 1;
+				line-height: 1.5;
+				background-color: rgba(255, 255, 255, 0.075);
 			}
 
 		#header nav ul {
@@ -1343,7 +1344,7 @@ input, select, textarea {
 				}
 
 					#header nav ul li a:hover {
-						background-color: rgba(255, 255, 255, 0.075);
+						background-color: rgba(255, 255, 255, 0.175);
 					}
 
 					#header nav ul li a:active {
