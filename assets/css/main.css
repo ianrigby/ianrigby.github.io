@@ -1214,17 +1214,18 @@ input, select, textarea {
 
 /* Header */
 .roundedImage {
-    background: url(images/avatar.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-
-    overflow:hidden;
-    -webkit-border-radius:50%;
-    -moz-border-radius:50%;
-    border-radius:50%;
-    width: 8rem;
-    height: 8rem;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.profile-pic {
+  display: inline;
+  margin: 0 auto;
+  margin-left: -25%; //centers the image
+  height: 100%;
+  width: auto;
 }
 	#header {
 		display: -moz-flex;
