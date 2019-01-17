@@ -520,7 +520,7 @@ input, select, textarea {
 				left: 0;
 				line-height: calc(1.58125rem + 0em);
 				position: absolute;
-				text-align: left;
+				text-align: center;
 				top: -0.125rem;
 				width: 1.65rem;
 			}
