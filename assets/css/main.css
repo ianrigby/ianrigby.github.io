@@ -1302,10 +1302,10 @@ input, select, textarea {
 				}
 
 			#header .content p {
-				text-transform: uppercase;
+				text-transform: none;
 				letter-spacing: 0.2rem;
 				font-size: 0.8rem;
-				line-height: 2;
+				line-height: 1;
 			}
 
 		#header nav ul {
@@ -1339,6 +1339,7 @@ input, select, textarea {
 					letter-spacing: 0.2rem;
 					font-size: 0.8rem;
 					border-bottom: 0;
+					background-color: rgba(255, 255, 255, 0.075);
 				}
 
 					#header nav ul li a:hover {
