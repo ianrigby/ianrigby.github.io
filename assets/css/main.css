@@ -72,7 +72,29 @@ input, select, textarea {
 	appearance: none;
 }
 
+/*Circular Image*/
+.circular {
+  margin: auto;
+  width: 200px;
+  height: 300px;
+  overflow: hidden;
+  background: red;
+}
+.circular:before {
+  content: url('images/avatar.jpg');
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  display: block;
+}
+
+
+
 /* Basic */
+
 
 	@-ms-viewport {
 		width: device-width;
