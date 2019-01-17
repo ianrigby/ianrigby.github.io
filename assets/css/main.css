@@ -1270,7 +1270,7 @@ input, select, textarea {
 				font-size: 2rem;
 			}
 
-	#header  {
+	#header > *:before {
 				content: '';
 				display: block;
 				position: absolute;
