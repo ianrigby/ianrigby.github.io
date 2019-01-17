@@ -1214,8 +1214,8 @@ input, select, textarea {
 
 /* Header */
 .roundedImage {
-    width: 200px;
-    height: 200px;
+    width: 1000px;
+    height: 1000px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
@@ -1223,7 +1223,7 @@ input, select, textarea {
 .profile-pic {
   display: inline;
   margin: 0 auto;
-  margin-left: -25%; //centers the image
+  margin-left: -25%;
   height: 100%;
   width: auto;
 }
