@@ -1223,8 +1223,8 @@ input, select, textarea {
     -webkit-border-radius:50%;
     -moz-border-radius:50%;
     border-radius:50%;
-    width: 10rem;
-    height: 9.5rem;;
+    width: 9.8rem;
+    height: 9.7rem;;
 }
 	#header {
 		display: -moz-flex;
