@@ -1291,10 +1291,10 @@ input, select, textarea {
 			display: -webkit-flex;
 			display: -ms-flex;
 			display: flex;
-			margin-bottom: 0;
+			margin-bottom: -50;
 			list-style: none;
 			padding-left: 0;
-			padding-bottom: -50px;
+			padding-bottom: 0;
 			border: solid 1px #ffffff;
 			border-radius: 4px;
 		}
@@ -1333,7 +1333,7 @@ input, select, textarea {
 			content: '';
 			display: block;
 			position: absolute;
-			top: -50px;
+			top: 0;
 			left: calc(50% - 1px);
 			width: 1px;
 			height: 100%;
