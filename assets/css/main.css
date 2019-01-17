@@ -1283,7 +1283,7 @@ input, select, textarea {
 				top: calc(0rem - 30px);
 				left: calc(50% - 1px);
 				width: 1px;
-				height: calc(0rem + 0px);
+				height: calc(1rem + 0px);
 				background: #ffffff;
 			}
 
