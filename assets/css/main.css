@@ -76,7 +76,6 @@ input, select, textarea {
 img {	
   border-radius: 50%;
   max-width: 100%;
-  margin: auto;
   height: cover;
 }
 .center {
