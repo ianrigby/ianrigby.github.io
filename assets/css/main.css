@@ -1213,22 +1213,12 @@ input, select, textarea {
 		}
 
 /* Header */
-.roundedImage {
-    background: url(images/avatar.jpg);
-    background-repeat: no-repeat;
-    background-size: auto;
-    width: 300px;
-    height: 300px;
-    position: relative;
-    overflow: hidden;
-    border-radius: 50%;
-}
-.profile-pic {
-  display: inline;
-  margin: 0 auto;
-  margin-left: -25%;
-  height: 100%;
-  width: auto;
+.img-circular{
+ width: 200px;
+ height: 200px;
+ background-image: url('http://strawberry-fest.org/wp-content/uploads/2012/01/Coca-Cola-logo.jpg');
+ background-size: cover;
+ display: block;
 }
 	#header {
 		display: -moz-flex;
