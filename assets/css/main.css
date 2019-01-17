@@ -1281,9 +1281,9 @@ input, select, textarea {
 				display: block;
 				position: absolute;
 				top: calc(0rem - 0px);
-				left: calc(50% - 1px);
+				left: calc(0 - 0px);
 				width: 1px;
-				height: calc(2rem + 10px);
+				height: calc(1rem + 0px);
 				background: #ffffff;
 			}
 
