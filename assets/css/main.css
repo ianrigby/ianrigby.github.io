@@ -1270,14 +1270,14 @@ input, select, textarea {
 				font-size: 2rem;
 			}
 
-	#header > *:before {
+	#header  {
 				content: '';
 				display: block;
 				position: absolute;
 				top: calc(10rem + 10px);
 				left: calc(50% - 1px);
 				width: 1px;
-				height: calc(5rem + 0px);
+				height: calc(1rem + 0px);
 				background: #ffffff;
 }
 
