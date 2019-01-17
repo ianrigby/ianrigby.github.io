@@ -1213,7 +1213,18 @@ input, select, textarea {
 		}
 
 /* Header */
+.roundedImage {
+    background: url(images/avatar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:90px;
+    height:90px;
+}
 	#header {
 		display: -moz-flex;
 		display: -webkit-flex;
