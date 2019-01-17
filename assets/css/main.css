@@ -78,6 +78,7 @@ img {
   max-width: 100%;
   margin: auto;
   height: cover;
+  border: 1px;
 }
 
 
