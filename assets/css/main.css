@@ -1278,17 +1278,6 @@ img {
 				font-size: 2rem;
 			}
 
-	#header > *:before {
-				content: '';
-				display: block;
-				position: absolute;
-				top: calc(0rem + 0px);
-				left: calc(50% - 1px);
-				width: 1px;
-				height: calc(0rem + 0px);
-				background: #ffffff;
-}
-
 
 		#header nav ul {
 			display: -moz-flex;
@@ -1431,10 +1420,7 @@ img {
 				margin-top: 2rem;
 			}
 
-				#header > *:before {
-					top: calc(-2rem - 1px);
-					height: calc(2rem + 1px);
-				}
+	
 
 			#header .logo {
 				width: 4.75rem;
