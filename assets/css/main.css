@@ -1214,8 +1214,11 @@ input, select, textarea {
 
 /* Header */
 .roundedImage {
-    width: 1000px;
-    height: 1000px;
+    background: url(images/avatar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 500px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
