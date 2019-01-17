@@ -1216,7 +1216,8 @@ input, select, textarea {
 .roundedImage {
     background: url(images/avatar.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: auto;
+    background-position: center;
 
     overflow:hidden;
     -webkit-border-radius:50%;
