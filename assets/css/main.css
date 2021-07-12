@@ -75,7 +75,7 @@ input, select, textarea {
 /*Circular Image*/
 img {	
   border-radius: 50%;
-  max-width: 100%;
+  max-width: 150%;
   height: cover;
 }
 .center {
