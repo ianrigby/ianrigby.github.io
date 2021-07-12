@@ -76,7 +76,6 @@ input, select, textarea {
 img {	
   height: 250px;
   width: 250px;
-  object-fit: contain;
   border-radius: 50%;
 }
 .center {
