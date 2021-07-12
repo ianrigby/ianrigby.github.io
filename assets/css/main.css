@@ -77,7 +77,6 @@ img {
   height: 250px;
   width: 250px;
   border-radius: 50%;
-  object-fit: contain; 
 }
 .center {
   display: block;
@@ -85,8 +84,9 @@ img {
   margin-right: auto;
   border-radius: 50%;
   width: 50%;
-}
+  object-fit: contain; 
 
+}
 
 /* Basic */
 
@@ -157,7 +157,7 @@ img {
 		}
 
 	body, input, select, textarea {
-		color: #000000;
+		color: #F5F5F5;
 		font-family: "Open Sans", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
@@ -179,7 +179,7 @@ img {
 		}
 
 	strong, b {
-		color: #ffffff;
+		color: #F5F5F5;
 		font-weight: 600;
 	}
 
@@ -200,7 +200,7 @@ img {
 	}
 
 	h1, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #F5F5F5;
 		font-weight: 600;
 		line-height: 1.5;
 		margin: 0 0 1rem 0;
