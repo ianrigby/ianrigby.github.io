@@ -185,10 +185,12 @@ img {
 	}
 
 	em, i {
+		color: #E8E8E8;
 		font-style: italic;
 	}
 
 	p {
+		color: #E8E8E8;
 		margin: 0 0 2rem 0;
 	}
 	h2 {
