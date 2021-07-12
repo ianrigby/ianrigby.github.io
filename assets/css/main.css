@@ -73,7 +73,7 @@ input, select, textarea {
 
 /*Circular Image*/
 img {	
-  height: 200px;
+  height: 250px;
   width: 200px;
   border-radius: 50%;
 }
