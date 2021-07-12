@@ -74,10 +74,10 @@ input, select, textarea {
 
 /*Circular Image*/
 img {	
+  height: 60px;
+  width: 60px;
+  object-fit: contain;
   border-radius: 50%;
-  max-width: 100%;
-  height: cover;
-  object-fit: contain; 
 }
 .center {
   display: block;
