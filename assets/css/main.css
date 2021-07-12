@@ -75,14 +75,14 @@ input, select, textarea {
 /*Circular Image*/
 img {	
   border-radius: 50%;
-  max-width: 150%;
+  max-width: 100%;
   height: cover;
 }
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 100%;
 }
 
 
